@@ -26,7 +26,7 @@ VALUES
     ('Gwyn', 'Cinder', 1, NULL),
     ('Priscilla', 'Cross', 2, 1),
     ('Andre', 'Astora', 3, NULL),
-    ('Smough', 'Londo', 4, 3),
+    ('Todd', 'Girsham', 4, 3),
     ('Nameless', 'King', 5, NULL),
     ('Siegward', 'Catarina', 6, 5),
     ('Sister', 'Friede', 7, NULL),
